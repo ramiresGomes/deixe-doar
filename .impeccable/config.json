@@ -1,0 +1,26 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "overused-font",
+        "value": "plus jakarta sans",
+        "files": [
+          "apresentacao/apresentacao.html"
+        ],
+        "createdAt": "2026-10-29T20:44:50.891Z",
+        "reason": "Briefing do usuário definiu Plus Jakarta Sans para a Direção 1; aparece só como amostra tipográfica dessa direção"
+      },
+      {
+        "rule": "overused-font",
+        "value": "geist",
+        "files": [
+          "apresentacao/apresentacao.html"
+        ],
+        "createdAt": "2026-10-30T02:40:27.605Z",
+        "reason": "Fonte oficial da marca Upscale Tech (design_system_specification.md enviado pelo usuário); usada só nos elementos da Upscale"
+      }
+    ]
+  }
+}
